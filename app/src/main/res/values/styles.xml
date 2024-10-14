@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Widget.Theme.UsersOfGitHub.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+    <style name="Widget.UsersOfGitHub.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="minHeight">48dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAppearance">?attr/textAppearanceBody1</item>
+    </style>
+</resources>
